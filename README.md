@@ -1,3 +1,3 @@
 # CSV Viewer
 
-[Live Here](https://csv-viewer-q6729ah8b-berkinakkaya.vercel.app)
+[Live Here](https://csv-viewer-khaki.vercel.app/)

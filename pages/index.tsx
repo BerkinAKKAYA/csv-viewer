@@ -10,7 +10,7 @@ export default function Home(props: Props) {
   return (
     <div>
       <Head>
-        <title>Prisma Blog by Berkin AKKAYA</title>
+        <title>Berkin AKKAYA</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

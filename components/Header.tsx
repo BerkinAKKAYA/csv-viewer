@@ -151,7 +151,7 @@ export default function Header() {
             sx={{ display: { xs: "none", sm: "block" }, cursor: "pointer" }}
             onClick={() => router.push("/")}
           >
-            <b>Prisma Blog</b>
+            <b>CSV Viewer</b>
           </Typography>
 
           <Search>
